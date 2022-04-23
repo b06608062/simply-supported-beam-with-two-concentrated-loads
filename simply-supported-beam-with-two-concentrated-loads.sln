@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simply-supported-beam-with-two-concentrated-loads", "simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads.csproj", "{881BA77D-48F7-4187-9F51-EB663CE293E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881BA77D-48F7-4187-9F51-EB663CE293E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881BA77D-48F7-4187-9F51-EB663CE293E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881BA77D-48F7-4187-9F51-EB663CE293E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881BA77D-48F7-4187-9F51-EB663CE293E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91E73C2-5B03-469F-A91F-4FD8D2D32C22}
+	EndGlobalSection
+EndGlobal

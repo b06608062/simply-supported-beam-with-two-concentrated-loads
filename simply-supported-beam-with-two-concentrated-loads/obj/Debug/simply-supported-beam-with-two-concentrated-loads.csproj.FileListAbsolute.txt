@@ -1,0 +1,11 @@
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\obj\Debug\simply-supported-beam-with-two-concentrated-loads.csproj.AssemblyReference.cache
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\obj\Debug\simply-supported-beam-with-two-concentrated-loads.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\obj\Debug\simply_supported_beam_with_two_concentrated_loads.MainForm.resources
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\obj\Debug\simply_supported_beam_with_two_concentrated_loads.Properties.Resources.resources
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\obj\Debug\simply-supported-beam-with-two-concentrated-loads.csproj.GenerateResource.cache
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\obj\Debug\simply-supported-beam-with-two-concentrated-loads.csproj.CoreCompileInputs.cache
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\bin\Debug\simply-supported-beam-with-two-concentrated-loads.exe.config
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\bin\Debug\simply-supported-beam-with-two-concentrated-loads.exe
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\bin\Debug\simply-supported-beam-with-two-concentrated-loads.pdb
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\obj\Debug\simply-supported-beam-with-two-concentrated-loads.exe
+C:\Users\fanti\source\repos\simply-supported-beam-with-two-concentrated-loads\simply-supported-beam-with-two-concentrated-loads\obj\Debug\simply-supported-beam-with-two-concentrated-loads.pdb
